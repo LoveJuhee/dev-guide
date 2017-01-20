@@ -1,0 +1,1 @@
+0 9 * * * /data/docker/tools/gitlab-ce/BACKUP_CRONTAB.sh >> /data/docker/tools/gitlab-ce/logs/backup.log 2>&1
