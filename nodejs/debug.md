@@ -62,4 +62,4 @@ node app.js
 ```
 
 #### Step 3 - 예시
-![debug-sample](nodejs/1_debug/debug-sample.jpg)
+![debug-sample](1_debug/debug-sample.jpg)
