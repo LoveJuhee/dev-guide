@@ -28,12 +28,6 @@ http://docs.gitlab.com/omnibus/docker/
   - /data/docker/tools/gitlab-ce/volume/data:/data `예비`
 
 -----
-```ruby
-...
-# external_url 'GENERATED_EXTERNAL_URL' # default: http://hostname
-external_url 'http://122.199.200.220:50021' # default: http://hostname
-...
-```
 
 #### Step 1 - 컨테이너 생성 스크립트
 
